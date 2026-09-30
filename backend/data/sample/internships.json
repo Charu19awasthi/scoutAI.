@@ -1,0 +1,112 @@
+[
+  {
+    "company": "NovaAI Labs",
+    "role": "AI/ML Intern",
+    "location": "Bangalore, India",
+    "work_mode": "Hybrid",
+    "skills": ["Python", "Machine Learning", "SQL"],
+    "stipend": "₹25,000/month",
+    "posted_date": "2026-09-27",
+    "application_url": "https://demo.scoutai.local/novaai-ml-intern",
+    "source_name": "Demo Job Source"
+  },
+  {
+    "company": "DataForge",
+    "role": "Machine Learning Intern",
+    "location": "Remote, India",
+    "work_mode": "Remote",
+    "skills": ["Python", "Machine Learning", "TensorFlow"],
+    "stipend": "₹20,000/month",
+    "posted_date": "2026-09-26",
+    "application_url": "https://demo.scoutai.local/dataforge-ml-intern",
+    "source_name": "Demo Job Source"
+  },
+  {
+    "company": "CloudNexa",
+    "role": "Cloud & AI Intern",
+    "location": "Noida, India",
+    "work_mode": "Hybrid",
+    "skills": ["Python", "AWS", "Machine Learning"],
+    "stipend": "₹18,000/month",
+    "posted_date": "2026-09-25",
+    "application_url": "https://demo.scoutai.local/cloudnexa-ai-intern",
+    "source_name": "Demo Job Source"
+  },
+  {
+    "company": "VisionStack",
+    "role": "Computer Vision Intern",
+    "location": "Pune, India",
+    "work_mode": "On-site",
+    "skills": ["Python", "OpenCV", "Machine Learning"],
+    "stipend": "₹22,000/month",
+    "posted_date": "2026-09-24",
+    "application_url": "https://demo.scoutai.local/visionstack-cv-intern",
+    "source_name": "Demo Job Source"
+  },
+  {
+    "company": "NeuralWorks",
+    "role": "Generative AI Intern",
+    "location": "Remote, India",
+    "work_mode": "Remote",
+    "skills": ["Python", "Artificial Intelligence", "LLM"],
+    "stipend": "₹30,000/month",
+    "posted_date": "2026-09-23",
+    "application_url": "https://demo.scoutai.local/neuralworks-genai-intern",
+    "source_name": "Demo Job Source"
+  },
+  {
+    "company": "TechOrbit",
+    "role": "Python Developer Intern",
+    "location": "Hyderabad, India",
+    "work_mode": "On-site",
+    "skills": ["Python", "FastAPI", "SQL"],
+    "stipend": "₹15,000/month",
+    "posted_date": "2026-09-22",
+    "application_url": "https://demo.scoutai.local/techorbit-python-intern",
+    "source_name": "Demo Job Source"
+  },
+  {
+    "company": "AI Nexus",
+    "role": "AI Research Intern",
+    "location": "Delhi, India",
+    "work_mode": "Hybrid",
+    "skills": ["Python", "Machine Learning", "Research"],
+    "stipend": "₹28,000/month",
+    "posted_date": "2026-09-20",
+    "application_url": "https://demo.scoutai.local/ainexus-research-intern",
+    "source_name": "Demo Job Source"
+  },
+  {
+    "company": "ByteVision",
+    "role": "Data Science Intern",
+    "location": "Mumbai, India",
+    "work_mode": "Hybrid",
+    "skills": ["Python", "SQL", "Machine Learning"],
+    "stipend": "₹20,000/month",
+    "posted_date": "2026-09-18",
+    "application_url": "https://demo.scoutai.local/bytevision-data-intern",
+    "source_name": "Demo Job Source"
+  },
+  {
+    "company": "FutureML",
+    "role": "ML Engineering Intern",
+    "location": "Remote, India",
+    "work_mode": "Remote",
+    "skills": ["Python", "Machine Learning", "Docker"],
+    "stipend": "₹25,000/month",
+    "posted_date": "2026-09-15",
+    "application_url": "https://demo.scoutai.local/futureml-engineering-intern",
+    "source_name": "Demo Job Source"
+  },
+  {
+    "company": "CodeMatrix",
+    "role": "Software Engineering Intern",
+    "location": "Gurugram, India",
+    "work_mode": "Hybrid",
+    "skills": ["Python", "FastAPI", "SQL"],
+    "stipend": "₹18,000/month",
+    "posted_date": "2026-09-10",
+    "application_url": "https://demo.scoutai.local/codematrix-software-intern",
+    "source_name": "Demo Job Source"
+  }
+]
